@@ -1,0 +1,10 @@
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojAssemblyReference.cache
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.FormScreenSaver.resources
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\benjaminpritchard\source\repos\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
